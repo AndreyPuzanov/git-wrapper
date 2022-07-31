@@ -8,8 +8,8 @@
         { "name": "Tomas Votruba", "email": "tomas.vot@gmail.com" }
     ],
     "require": {
-        "php": ">=7.3",
-        "symfony/process": "^4.4|^5.1",
+        "php": ">=7.3|^8.1",
+        "symfony/process": "^4.4|^5.1|^6.0",
         "symfony/event-dispatcher": "^4.4|^5.1",
         "nette/utils": "^3.0"
     },
